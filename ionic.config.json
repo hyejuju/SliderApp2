@@ -1,0 +1,9 @@
+{
+  "name": "FindNearMe",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "a75a35d7",
+  "id": "a75a35d7"
+}
